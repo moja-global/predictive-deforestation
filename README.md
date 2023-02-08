@@ -1,2 +1,2 @@
 # Deforestation Prediction framework
-This repository contains the work done towards predicting deforestation using satellite images as a part of the [Google AI for Social Good](https://sites.google.com/view/ai4sgprogram2022/home?pli=1) program at [Moja Global](https://moja.global/) in collaboration with the [Makerere University](https://www.mak.ac.ug/).
+This repository contains the work done towards predicting deforestation using satellite images as a part of the [Google AI for Social Good](https://sites.google.com/view/ai4sgprogram2022/home?pli=1) program at [Moja Global](https://moja.global/) in collaboration with the [Makerere University](https://www.mak.ac.ug/)
